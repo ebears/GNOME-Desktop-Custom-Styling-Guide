@@ -3,6 +3,9 @@
 I love Gnome, but consistent styling can be difficult. This documents my way of styling Gnome desktop.\
 It is important that I am able to switch between dark and light mode.
 
+<img src="light-mode.png" alt="light-mode" width="49%">
+<img src="dark-mode.png" alt="dark-mode" width="49%" >
+
 ### Requirements
 
 [Gnome Desktop](https://www.gnome.org/) (obviously)\
