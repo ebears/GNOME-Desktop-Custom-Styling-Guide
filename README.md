@@ -28,14 +28,12 @@ alias light-mode="gsettings set org.gnome.desktop.interface color-scheme 'defaul
                     ln -s gtk-light.css gtk.css &&
                     cd ../gtk-4.0 && rm gtk.css &&
                     ln -s gtk-light.css gtk.css &&
-                    sed -i -e 's/\"workbench.colorTheme\": \".*\"/\"workbench.colorTheme\": \"Catppuccin Latte\"/g' \"$HOME/.config/Code/User/settings.json\" &&
                     cd"
 alias dark-mode="gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark' &&
                     cd .config/gtk-3.0 && rm gtk.css &&
                     ln -s gtk-dark.css gtk.css &&
                     cd ../gtk-4.0 && rm gtk.css &&
                     ln -s gtk-dark.css gtk.css &&
-                    sed -i -e 's/\"workbench.colorTheme\": \".*\"/\"workbench.colorTheme\": \"Catppuccin Frappé\"/g' \"$HOME/.config/Code/User/settings.json\" &&
                     cd"
 ```
 
