@@ -3,14 +3,13 @@
 I love GNOME desktop, but consistent styling can be difficult.\
 It is important that I am able to switch between dark and light mode.
 
-<img src="light-mode.png" alt="light-mode" width="49%">
-<img src="dark-mode.png" alt="dark-mode" width="49%" >
+<img src="light-mode.png" alt="light-mode" width="50%"><img src="dark-mode.png" alt="dark-mode" width="50%" >
 
 ### Requirements
 
 [GNOME Desktop](https://www.gnome.org/) (obviously)\
-**Applications Required** [Gradience](https://github.com/GradienceTeam/Gradience)\
-**Extensions Required** [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/)
+[Gradience](https://github.com/GradienceTeam/Gradience)\
+[Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/)
 
 ### Adwaita Colours
 
