@@ -1,6 +1,6 @@
-# Gnome Styling - My Way
+# GNOME Styling - My Way
 
-I love Gnome, but consistent styling can be difficult. This documents my way of styling Gnome desktop.\
+I love GNOME desktop, but consistent styling can be difficult.\
 It is important that I am able to switch between dark and light mode.
 
 <img src="light-mode.png" alt="light-mode" width="49%">
@@ -8,7 +8,7 @@ It is important that I am able to switch between dark and light mode.
 
 ### Requirements
 
-[Gnome Desktop](https://www.gnome.org/) (obviously)\
+[GNOME Desktop](https://www.gnome.org/) (obviously)\
 **Applications Required** [Gradience](https://github.com/GradienceTeam/Gradience)\
 **Extensions Required** [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/)
 
