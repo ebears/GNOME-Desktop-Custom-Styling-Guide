@@ -41,3 +41,8 @@ alias dark-mode="gsettings set org.gnome.desktop.interface color-scheme 'prefer-
 Now we go to the Night Theme Switcher extension settings.\
 Select the Commands header, and for Sunrise enter `bash -c light-mode`.\
 And for Sunset enter `bash -c dark-mode`.
+
+### Other Things to Consider
+
+[Gradience now has a cli mode](https://github.com/GradienceTeam/Gradience/wiki/Using-CLI).\
+[adw-gtk3 allows GTK3 apps to take on Adwaita's appearance](https://github.com/lassekongo83/adw-gtk3).
