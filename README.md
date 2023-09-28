@@ -13,13 +13,6 @@ It is important that I am able to switch between dark and light mode.
 
 ### Adwaita Colours
 
-Choose your desired light and dark theme within Gradience, and begin by first applying your light theme.\
-Navigate to `$HOME/.config/gtk-3.0` and rename `gtk.css` to `gtk-light.css`.\
-Navigate to `$HOME/.config/gtk-4.0` and rename `gtk.css` to `gtk-light.css`.\
-Return to Gradience and apply your dark theme.\
-Navigate to `$HOME/.config/gtk-3.0` and create a copy of `gtk.css`, renaming it to `gtk-dark.css`.\
-Navigate to `$HOME/.config/gtk-4.0` and create a copy of `gtk.css`, renaming it to `gtk-dark.css`.
-
 Our goal is to switch from light to dark with a single command.\
 I'm using functions in Fish shell, but it should be pretty easily adaptable -
 ```
